@@ -1,0 +1,14 @@
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.dll
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.pdb
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Profesor\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.dll
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.pdb
